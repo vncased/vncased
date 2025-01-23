@@ -6,6 +6,7 @@
 
 #### Language:
 ![Python](https://img.icons8.com/color/48/000000/python.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vncased&layout=compact)
 
 
 <!--
