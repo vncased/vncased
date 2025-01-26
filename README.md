@@ -1,5 +1,4 @@
-## Hi 👋
-сижу, лежу, сплю 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Chill+Guys+🌱)](https://git.io/typing-svg)сижу, лежу, сплю 
 
 <a href="https://www.icegif.com/wp-content/uploads/2023/01/icegif-165.gif" target="_blank">
   <img src="https://media1.tenor.com/m/OfqLXcy4EjwAAAAd/evangelion-lights.gif" alt="Click me" title="Click me Please (" width="200" height="200"/>
