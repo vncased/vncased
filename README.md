@@ -13,6 +13,9 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vncased)](https://github.com/vncased/github-readme-stats)
 ___
 
+![grsa](https://raw.githubusercontent.com/vncased/vncased/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![gsgsa](https://raw.githubusercontent.com/vncased/vncased/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 
 
 <!--
